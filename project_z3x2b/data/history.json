@@ -1,0 +1,131 @@
+{
+    "name": "Will's expense history",
+    "items": [
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:27:00",
+                "day": "26"
+            },
+            "amount": 888,
+            "isExpense": true,
+            "type": "Shopping"
+        },
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:27:03",
+                "day": "26"
+            },
+            "amount": 888,
+            "isExpense": true,
+            "type": "Shopping"
+        },
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:27:03",
+                "day": "26"
+            },
+            "amount": 888,
+            "isExpense": true,
+            "type": "Shopping"
+        },
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:27:13",
+                "day": "26"
+            },
+            "amount": 88,
+            "isExpense": false
+        },
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:27:15",
+                "day": "26"
+            },
+            "amount": 88,
+            "isExpense": false
+        },
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:27:16",
+                "day": "26"
+            },
+            "amount": 88,
+            "isExpense": false
+        },
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:28:10",
+                "day": "26"
+            },
+            "amount": 88,
+            "isExpense": false
+        },
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:28:10",
+                "day": "26"
+            },
+            "amount": 88,
+            "isExpense": false
+        },
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:28:10",
+                "day": "26"
+            },
+            "amount": 88,
+            "isExpense": false
+        },
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:28:15",
+                "day": "26"
+            },
+            "amount": 88,
+            "isExpense": true,
+            "type": "Food"
+        },
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:28:16",
+                "day": "26"
+            },
+            "amount": 88,
+            "isExpense": true,
+            "type": "Food"
+        },
+        {
+            "date": {
+                "month": "11",
+                "year": "2020",
+                "time": "10:28:16",
+                "day": "26"
+            },
+            "amount": 88,
+            "isExpense": true,
+            "type": "Food"
+        }
+    ]
+}

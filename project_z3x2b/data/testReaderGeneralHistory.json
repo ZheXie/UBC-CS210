@@ -1,0 +1,37 @@
+{
+  "name": "My expense history",
+  "items": [
+    {
+      "date": {
+        "month": "03",
+        "year": "2020",
+        "time": "12:00:00",
+        "day": "12"
+      },
+      "amount": 400,
+      "isExpense": true,
+      "type": "Food"
+    },
+    {
+      "date": {
+        "month": "03",
+        "year": "2020",
+        "time": "12:00:00",
+        "day": "12"
+      },
+      "amount": 800,
+      "isExpense": true,
+      "type": "Shopping"
+    },
+    {
+      "date": {
+        "month": "03",
+        "year": "2020",
+        "time": "12:00:00",
+        "day": "12"
+      },
+      "amount": 1200,
+      "isExpense": false
+    }
+  ]
+}
